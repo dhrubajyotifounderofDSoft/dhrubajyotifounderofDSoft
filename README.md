@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dhrubajyotifounderofDSoft
+- 👋 Hi, I’m @dhrubajyotifounderofDSoft and I am the Founder of @DSoftofficial
 - 👀 I’m interested in Software Engineering and Computer Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on Tilder in DSoft
 
 <!---
 dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

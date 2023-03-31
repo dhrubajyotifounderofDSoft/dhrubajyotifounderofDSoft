@@ -2,7 +2,7 @@
 <h2> 👀 I’m interested in Software Engineering and Computer Science</h2>
 <h2> 🌱 I’m currently working on Tilder in DSoft</h2>
 
-#### "I Want Transform Tech Into Life."
+#### "I Want To Transform Tech Into Life."
 
 You can follow me on ![Twitter](https://img.shields.io/twitter/follow/Dhrubaj32201910?color=blue&logo=twitter&style=for-the-badge) 
                      ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRvcazkrS67RdBpaojFWUUA?logo=youtube&logoColor=red&style=for-the-badge)

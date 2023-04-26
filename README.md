@@ -14,6 +14,15 @@ My Favourite companies ![Microsoft](https://img.shields.io/badge/Microsoft-grey?
 
 My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
 
+
+### My terminal looks like this
+`   54 RAM: 4/7GB   0ms 
+╭─  pwsh   6:32:35 PM | Wednesday       `
+
+#### | Thanks to oh-my-posh
+
+
+
 <!---
 dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

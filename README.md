@@ -12,14 +12,13 @@ You can follow me on ![Twitter](https://img.shields.io/twitter/follow/Dhrubaj322
 My Favourite companies ![Microsoft](https://img.shields.io/badge/Microsoft-grey?style=for-the-badge&logo=microsoft) ![Accenture](https://img.shields.io/badge/Accenture-grey?style=for-the-badge&logo=accenture) ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
 
-My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
+My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
 
 
 ### My terminal looks like this
-`   54 RAM: 4/7GB   0ms 
-╭─  pwsh   6:32:35 PM | Wednesday       `
+![image](https://github.com/dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft/assets/108980710/4aef3af8-9167-44e8-9a6e-b15dc482ff39)
 
-#### | Thanks to oh-my-posh
+#### | Thanks to [oh-my-posh](https://ohmyposh.dev/)
 
 
 

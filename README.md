@@ -4,15 +4,21 @@
 
 #### "I Want To Transform Tech Into Life."
 
+## DSoft Discord Server:~ [<img src="https://github.com/dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft/assets/108980710/4e2f456d-85c2-4947-b371-4ad395cf08d2">](https://discord.com/invite/rwFb2hbZAK)
+
+
 You can follow me on ![Twitter](https://img.shields.io/twitter/follow/Dhrubaj32201910?color=blue&logo=twitter&style=for-the-badge) 
                      ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRvcazkrS67RdBpaojFWUUA?logo=youtube&logoColor=red&style=for-the-badge)
                      ![GitHub](https://img.shields.io/github/followers/dhrubajyotifounderofDSoft?logo=github&style=for-the-badge)
+                     ![Twitch](https://img.shields.io/badge/Twitch-218370?style=for-the-badge&logo=twitch&logoColor=white)
+
                      
-                     
+Operating Systems that I use: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 My Favourite companies ![Microsoft](https://img.shields.io/badge/Microsoft-grey?style=for-the-badge&logo=microsoft) ![Accenture](https://img.shields.io/badge/Accenture-grey?style=for-the-badge&logo=accenture) ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
 
-My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
+My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C++) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript) ![Rust](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust)
 
 
 ### My terminal looks like this

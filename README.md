@@ -5,7 +5,7 @@
 <h2> ⚛️ For frontend I've learnt React</h2>
 <h2> 🧩 I like solving puzzles like the Password Game.</h2>
 <h2> 🏢 I have also contributed to Microsoft and VS Code.</h2>
-#### "I Want To Transform Tech Into Life."
+<h3><q>I Want To Transform Tech Into Life.</q></h3> 
 
 ## DSoft Discord Server:~ [<img src="https://github.com/dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft/assets/108980710/4e2f456d-85c2-4947-b371-4ad395cf08d2">](https://discord.com/invite/rwFb2hbZAK)
 

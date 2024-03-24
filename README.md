@@ -1,7 +1,10 @@
-<h1> 👋 Hi, I’m @dhrubajyotifounderofDSoft and I am the Founder of @DSoftofficial </h1>
+<h1> 👋 Hi, I’m @dhrubajyotifounderofDSoft and I am the Founder & CEO of @DSoftofficial </h1>
 <h2> 👀 I’m interested in Software Engineering and Computer Science</h2>
 <h2> 🌱 I’m currently working on Tilder in DSoft</h2>
-
+<h2> 📔 I’m learning more about Python, Rust and C++ programming languages. Know a little about JavaScript</h2>
+<h2> ⚛️ For frontend I've learnt React</h2>
+<h2> 🧩 I like solving puzzles like the Password Game.</h2>
+<h2> 🏢 I have also contributed to Microsoft and VS Code.</h2>
 #### "I Want To Transform Tech Into Life."
 
 ## DSoft Discord Server:~ [<img src="https://github.com/dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft/assets/108980710/4e2f456d-85c2-4947-b371-4ad395cf08d2">](https://discord.com/invite/rwFb2hbZAK)
@@ -13,7 +16,7 @@ You can follow me on ![Twitter](https://img.shields.io/twitter/follow/Dhrubaj322
                      ![Twitch](https://img.shields.io/badge/Twitch-218370?style=for-the-badge&logo=twitch&logoColor=white)
 
                      
-Operating Systems that I use: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+Operating Systems that I use: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 My Favourite companies ![Microsoft](https://img.shields.io/badge/Microsoft-grey?style=for-the-badge&logo=microsoft) ![Accenture](https://img.shields.io/badge/Accenture-grey?style=for-the-badge&logo=accenture) ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
